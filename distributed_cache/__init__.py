@@ -1,0 +1,1 @@
+from .cluster import CacheCluster\n__version__ = "1.0.0"\n
